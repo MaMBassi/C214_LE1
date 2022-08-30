@@ -5,6 +5,9 @@ Linguagem de Programação: Java
 
 IDE: IntelliJ
 
+Gerenciador de dependências: Maven
+ - Dependências utiliziadas: Gson e JUnit.
+
 Casos de Teste de Sucesso:
  - Informações corretas dos atendimentos dos professores.
  
